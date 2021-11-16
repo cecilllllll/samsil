@@ -13,8 +13,10 @@ body {
       h2,
       h1 {
         color: #155faf;
-        font-family: 'IM_Hyemin-Bold';
+        font-family: 'IM_Hyemin-Bold'
+        ;
       }
+      h1{font-size: x-large;}
 
       p {
         font-family: 'IM_Hyemin-Regular';
