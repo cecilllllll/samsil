@@ -8,7 +8,7 @@ $(document).ready(function () {
     navigation: true,
     slidesNavigation: true,
     css3: true,
-    controlArrows: false
+    controlArrows: true
   });
 
 });
