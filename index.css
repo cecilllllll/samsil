@@ -16,7 +16,7 @@ body {
         font-family: 'IM_Hyemin-Bold'
         ;
       }
-      h1{font-size: x-large;}
+      h1{font-size: xx-large;}
 
       p {
         font-family: 'IM_Hyemin-Regular';
@@ -34,5 +34,6 @@ body {
         font-family: 'IM_Hyemin-Regular';
         src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2106@1.1/IM_Hyemin-Regular.woff2') format('woff');
         font-weight: normal;
-        font-style: normal;
-      }
+        font-style: normal;}
+      title {font-size:300px}
+      
