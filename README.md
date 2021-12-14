@@ -42,11 +42,18 @@
 | 이미지 | |
 |:-----:|:----|
 | <img src="https://user-images.githubusercontent.com/94329566/146039347-d230dbc8-1b57-46eb-ad90-c17712c11365.png" width= 300> | <h2>MAIN 애니메이션 </h2> <br>메인화면에서 애니메이션이 계속 반복이 되도록 합니다.  <br> 물결모양의 선이 물결처럼 움직이도록 구현을 해서 하나의 디자인 요소로 사용할 것입니다. <br> 여러개의 그림을 js로 빠르게 돌려서 움직이도록 할 것 입니다.
-|<img src="https://media.giphy.com/media/QHi2ABdgVFYzxLLmjZ/giphy.gif" width= 300> | <h2>두번째 애니메이션 </h2> <br> keyword 화면에서 사람이 움직이게 애니메이션을 줄 것 입니다. <br> 달리고 있는 사람과 왼쪽으로 이동하는 나무를 구현할 것입니다. 
+|<img  src="https://user-images.githubusercontent.com/94329566/146096465-b04389e3-3722-4316-b246-3e8f30ea76ac.png" width= 300> | <h2>두번째 애니메이션 </h2> <br> keyword 화면에서 사람이 움직이게 애니메이션을 줄 것 입니다. <br> 달리고 있는 사람과 왼쪽으로 이동하는 나무를 구현할 것입니다. 
 
 <div align="center">
 
 <br>
+ 
+ | 이미지 | |
+|:-----:|:----|
+| <img src="https://user-images.githubusercontent.com/94329566/146039347-d230dbc8-1b57-46eb-ad90-c17712c11365.png" width= 300> | <h2>  </h2> <br>메인화면에서 애니메이션이 계속 반복이 되도록 합니다.  <br> 물결모양의 선이 물결처럼 움직이도록 구현을 해서 하나의 디자인 요소로 사용할 것입니다. <br> 여러개의 그림을 js로 빠르게 돌려서 움직이도록 할 것 입니다.
+|<img  src="https://user-images.githubusercontent.com/94329566/146096465-b04389e3-3722-4316-b246-3e8f30ea76ac.png" width= 300> | <h2>두번째 애니메이션 </h2> <br> keyword 화면에서 사람이 움직이게 애니메이션을 줄 것 입니다. <br> 달리고 있는 사람과 왼쪽으로 이동하는 나무를 구현할 것입니다. 
+
+<div align="center">
 
 ### 상세 화면
 | 로그인 진입 화면 | 로그인 화면 | 값 오류 화면 |
