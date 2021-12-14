@@ -23,7 +23,7 @@
 
 ### 📱 컴포넌트
 
-- 메인 애니메이션 (gif)
+- 애니메이션 (gif)
 - 메뉴 탭바
 - 하트 눌러 숫자 올리기
 - 사진 호버시 색깔 변하고 글씨 띄우기
@@ -35,14 +35,14 @@
 
  <h1 align="center"> 컴포넌트 소개 </h1>
  
-## 매인 애니메이션 
+## 애니메이션 
 
 <br>
 
 | 이미지 | |
 |:-----:|:----|
-| <img src="https://media.giphy.com/media/5faqNWwEWRL0zxHoct/giphy.gif" width= 300> | <h2>Splash </h2> <br> 스플래시 화면을 `lottie-ios` 를 통해 적용하였습니다. <br>한 Loop 가 재생되고 로그인 화면으로 넘어갑니다. <br> splash 에서는 토큰의 세션이 만료되었는지에 대해 서버통신을 통해 확인합니다. <br> 만료가 되었거나 토큰이 없다면 로그인 화면으로, 유효한 토큰을 소유한 유저라면 바로 홈화면으로 넘어갑니다.  |
-|<img src="https://media.giphy.com/media/QHi2ABdgVFYzxLLmjZ/giphy.gif" width= 300> | <h2>Login </h2> <br> 더 나은 레이아웃을 위해 로그인 버튼을 누르면 애니메이션과 함께 아이디, 비밀번호 란이 보여집니다. <br> 아이디 혹은 비밀번호를 적지 않았거나 옳지 않은 값이 들어간다면 빨간 경고 글씨가 띄워집니다. |
+| <img src="https://user-images.githubusercontent.com/94329566/146039347-d230dbc8-1b57-46eb-ad90-c17712c11365.png" width= 300> | <h2>MAIN 애니메이션 </h2> <br>메인화면에서 애니메이션이 계속 반복이 되도록 합니다.  <br> 물결모양의 선이 물결처럼 움직이도록 구현을 해서 하나의 디자인 요소로 사용할 것입니다. <br> 여러개의 그림을 js로 빠르게 돌려서 움직이도록 할 것 입니다.
+|<img src="https://media.giphy.com/media/QHi2ABdgVFYzxLLmjZ/giphy.gif" width= 300> | <h2>두번째 애니메이션 </h2> <br> keyword 화면에서 사람이 움직이게 애니메이션을 줄 것 입니다. <br> 달리고 있는 사람과 왼쪽으로 이동하는 나무를 구현할 것입니다. 
 
 <div align="center">
 
