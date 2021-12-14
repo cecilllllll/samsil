@@ -60,12 +60,22 @@
 <div align="center">
 
 ### 상세 화면
-| 로그인 진입 화면 | 로그인 화면 | 값 오류 화면 |
-|:-----:|:----:|:-----:|
-| <img src="https://user-images.githubusercontent.com/94329566/146097664-472ca396-33de-4127-a566-939cf47d70d7.png" width=300>| <img src="https://user-images.githubusercontent.com/94329566/146097738-804b48fa-2db9-4a80-ab99-d4fedde3f803.png" width=300> 
+| 하트 안눌렀을 때 | 눌렀을 때
+|:-----:|:----:|
+| <img src="https://user-images.githubusercontent.com/94329566/146097664-472ca396-33de-4127-a566-939cf47d70d7.png" width=300>| <img src="https://user-images.githubusercontent.com/94329566/146097810-4515be15-d134-4821-97ce-403fb636d53f.png" width=300> 
 
 <br>
 <br>
+ 
+ ## 메뉴탭바
+
+<br>
+
+| 이미지 | |
+|:-----:|:----|
+| <img src="https://user-images.githubusercontent.com/94329566/146039347-d230dbc8-1b57-46eb-ad90-c17712c11365.png" width= 300> | <h2>메뉴탭바 안되는걸 되게 한다 </h2> <br> 스크롤 jquery를 넣다보니 매뉴 탭바가 고정이 안된다. <br> 스크롤이 되면서 메뉴탭바 고정도 해보려고! 
+
+<div align="center">
 
 <br>
 
