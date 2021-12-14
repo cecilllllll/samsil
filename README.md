@@ -62,7 +62,7 @@
 ### 상세 화면
 | 로그인 진입 화면 | 로그인 화면 | 값 오류 화면 |
 |:-----:|:----:|:-----:|
-| <img src="https://user-images.githubusercontent.com/94329566/146097664-472ca396-33de-4127-a566-939cf47d70d7.png" width=300>| <img src= "https://user-images.githubusercontent.com/37579661/104591980-dacc7f80-56b0-11eb-9146-e9eae41300a3.png" width=300> 
+| <img src="https://user-images.githubusercontent.com/94329566/146097664-472ca396-33de-4127-a566-939cf47d70d7.png" width=300>| <img src="https://user-images.githubusercontent.com/94329566/146097738-804b48fa-2db9-4a80-ab99-d4fedde3f803.png" width=300> 
 
 <br>
 <br>
