@@ -105,7 +105,7 @@
 
 | 이미지 | |
 |:-----:|:----|
-| <img  src="https://user-images.githubusercontent.com/94329566/146099620-c0dd911a-f760-4079-ade6-d3b0c58b1baa.png" width= 300> | <h2>편지 뜯기 - 재밌는 동작 </h2> <br> 칼을 드래그해서 편지 봉투 윗면에 올리면 편지가 찢어진 것처럼 구현 할 것입니다. <br> drag이벤트를 사용할 것입니다! <br> 
+| <img   src="https://user-images.githubusercontent.com/94329566/146099620-c0dd911a-f760-4079-ade6-d3b0c58b1baa.png" width= 300> | <h2>편지 뜯기 - 재밌는 동작 </h2> <br> 칼을 드래그해서 편지 봉투 윗면에 올리면 편지가 찢어진 것처럼 구현 할 것입니다. <br> drag이벤트를 사용할 것입니다! <br> 
 
 <div align="center">
  
