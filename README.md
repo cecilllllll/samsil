@@ -73,7 +73,7 @@
 
 | 이미지 | |
 |:-----:|:----|
-| <img src="https://user-images.githubusercontent.com/94329566/146039347-d230dbc8-1b57-46eb-ad90-c17712c11365.png" width= 300> | <h2>메뉴탭바 안되는걸 되게 한다 </h2> <br> 스크롤 jquery를 넣다보니 매뉴 탭바가 고정이 안된다. <br> 스크롤이 되면서 메뉴탭바 고정도 해보려고! 
+| <img src=https://user-images.githubusercontent.com/94329566/146098194-ec841fa3-2fe4-45f5-9408-c0bb23dc12b2.mov width= 300> | <h2>메뉴탭바 안되는걸 되게 한다 </h2> <br> 스크롤 jquery를 넣다보니 매뉴 탭바가 고정이 안된다. <br> 스크롤이 되면서 메뉴탭바 고정도 해보려고! 
 
 <div align="center">
 
